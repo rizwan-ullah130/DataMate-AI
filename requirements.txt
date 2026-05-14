@@ -23,3 +23,6 @@ fastapi
 uvicorn
 requests
 setuptools
+ydata-profiling
+streamlit-pandas-profiling
+pandas-profiling
