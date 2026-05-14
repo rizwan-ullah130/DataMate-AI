@@ -6,3 +6,4 @@ streamlit-pandas-profiling
 plotly
 numpy
 fpdf
+pkg_resources
