@@ -2,7 +2,7 @@ streamlit
 pandas
 scikit-learn
 ydata-profiling
-streamlit-pandas-profiling
+
 plotly
 numpy
 fpdf
