@@ -22,7 +22,5 @@ wordcloud
 fastapi
 uvicorn
 requests
-setuptools
-ydata-profiling
-streamlit-pandas-profiling
+setuptools==75.1.0
 pandas-profiling
